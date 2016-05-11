@@ -1,12 +1,12 @@
 {
-    "name": "hux-blog",
-    "title": "Hux Blog",
-    "author": "Hux <huxpro@gmail.com>",
+    "name": "xiuc-blog",
+    "title": "xiuc Blog",
+    "author": "xiuc <972994718@qq.com>",
     "version": "1.6.0",
-    "homepage": "http://huxpro.github.io",
+    "homepage": "http://froest2012.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Huxpro/huxpro.github.io"
+        "url": "https://github.com/froest2012/froest2012.github.io"
     },
     "bugs": "https://github.com/Huxpro/huxpro.github.io/issues",
     "devDependencies": {
