@@ -7,7 +7,7 @@
 
 ### "Page Build Warning" email
 
-These days, some of you must receive a "Page Build Warning" email from github after you commit happily. **Don't Worried!** It just that github changes its build environment.
+These days,  some of you must receive a "Page Build Warning" email from github after you commit happily. **Don't Worried!** It just that github changes its build environment.
 
 In this mail, github told us:
 
