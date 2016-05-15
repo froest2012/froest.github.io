@@ -4,3 +4,4 @@ _site
 _post_bak/
 backHtml/
 .idea/
+.DS_Store
