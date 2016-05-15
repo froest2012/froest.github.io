@@ -1,7 +1,7 @@
 _site
 .sass-cache
 .jekyll-metadata
-_post_bak/
+_posts_bak/
 backHtml/
 .idea/
 .DS_Store
